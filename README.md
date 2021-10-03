@@ -13,7 +13,7 @@ Procesos de producción - Módulo Digital
 * [**Gabriela Vallejos**](https://github.com/GabiVallejosB): Área Investigación y Redacción
 
 ### Agua limpia y saneamiento
-Descripción
+Se tiene por objetivo garantizar la disponibilidad de agua y su gestión sostenible y el saneamiento para todas las personas.
 
 **Base de datos para investigación**
 
